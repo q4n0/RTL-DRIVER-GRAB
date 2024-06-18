@@ -2,7 +2,7 @@ sudo apt-get update
 sudo apt-get install make gcc linux-headers-$(uname -r) build-essential git
 sudo apt-get install make gcc linux-headers-$(uname -r) build-essential git
 git clone https://github.com/lwfinger/rtw88.git
-cd /RTL-DRIVER-GRAB/myscripts/rtw88
+cd rtw88
 make
 sudo make install
 
