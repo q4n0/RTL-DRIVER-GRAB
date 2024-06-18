@@ -21,7 +21,15 @@ These are RTL DRIVER INSTALLER AND UPDATER SCRIPTS. YES YOU NEED BOTH INCASE YOU
 #Now execute and let magic happen
     sudo ./rtlinstll.sh
 
+Issues 🚨
 
+Report any build problems and see the FAQ at bottom of this README.
+
+⚠️ If you see a line such as: make[1]: *** /lib/modules/5.17.5-300.fc36.x86_64/build: No such file or directory. Stop.
+
+This indicates you have NOT installed the kernel headers.
+
+Use the following instructions for that step.
 INCASE YOU UPGRADE KERNEL USE 
 #Use admin priviledges with sudo to make it executable
     sudo chmod +x rtlupdate.sh
