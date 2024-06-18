@@ -23,7 +23,6 @@ These are RTL DRIVER INSTALLER AND UPDATER SCRIPTS. YES YOU NEED BOTH INCASE YOU
 
 Issues 🚨
 
-Report any build problems and see the FAQ at bottom of this README.
 
 ⚠️ If you see a line such as: make[1]: *** /lib/modules/5.17.5-300.fc36.x86_64/build: No such file or directory. Stop.
 
